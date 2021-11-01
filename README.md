@@ -2,6 +2,7 @@
 - 👀 I’m interested in Hardware, Low-level programming and Embedded systems
 - 🌱 I’m currently teaching anddoing research
 - 💞️ I’m looking to collaborate on Hardware
+- Most of my works here are private.
 
 <!---
 opinidee/opinidee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
